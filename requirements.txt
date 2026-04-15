@@ -1,0 +1,10 @@
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+apscheduler
+python-dotenv
+streamlit
+plotly
